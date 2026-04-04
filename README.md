@@ -30,6 +30,7 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
  • [valeriia.bovsunovska@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=valeriia.bovsunovska@gmail.com) 
 
 
+  
 
 # My GitHub Journey 🚀
 
