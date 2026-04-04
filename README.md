@@ -36,7 +36,7 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 
 # My GitHub Journey 🚀
 
-![Valeriia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=valeriia458&theme=transparent&r=true=transparent&include_all_commits&hide_borde=true&count_public)
+![Valeriia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=valeriia458&theme=transparent&hide_border=true)
 
 
 
