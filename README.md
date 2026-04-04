@@ -34,9 +34,11 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 
 ![Valeriia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=valeriia458&theme=transparent&hide_border=true)
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+| My Activity Streak | GitHub Statistics |
+| :--- | :--- |
+| ![Valeriia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=valeriia458&theme=transparent&hide_border=true) | ![Valeriia's Stats](https://github-readme-stats.vercel.app/api?username=valeriia458&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true) |
 
 
 
