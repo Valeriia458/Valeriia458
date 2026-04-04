@@ -33,4 +33,8 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 
 ![Valeriia's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriia458&show_icons=true&theme=transparent&include_all_commits=true&count_public=true&hide_border=true)   
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valeriia458&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" />
+</p>
+
 
