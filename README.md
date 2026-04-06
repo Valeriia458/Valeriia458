@@ -39,7 +39,7 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 
 ![Valeriia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=valeriia458&theme=transparent&hide_border=true)   
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriia458&layout=compact&theme=vision-fast-delete)
+![Valeriia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valeriia458&layout=compact&theme=pride)
 
 
 
