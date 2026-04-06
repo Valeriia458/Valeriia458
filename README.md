@@ -47,7 +47,6 @@ I'm Valeriia Bovsunovska, enthusiastic and adaptable professional seeking a Juni
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-![Valeriia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valeriia458&layout=compact&theme=pride)
 
 
 
